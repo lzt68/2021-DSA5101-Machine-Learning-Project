@@ -7,7 +7,7 @@ Codes and slides of Machine Learning Project in DSA 5101
 
 ## Contact
 
-HUANG XIJIE:
+HUANG XIJIE:e0732626@u.nus.edu
 
 LI ZITIAN: lizitian@u.nus.edu
 
