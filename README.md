@@ -11,7 +11,7 @@ HUANG XIJIE: e0732626@u.nus.edu
 
 LI ZITIAN: lizitian@u.nus.edu
 
-WANG SHUHUI:
+WANG SHUHUI: e0202983@u.nus.edu
 
 ## Folder and File
 File1: ...
