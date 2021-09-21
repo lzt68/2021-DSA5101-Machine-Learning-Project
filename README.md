@@ -14,21 +14,25 @@ LI ZITIAN: lizitian@u.nus.edu
 WANG SHUHUI: e0202983@u.nus.edu
 
 ## Folder and File
-File1: ...
+bank-full.csv : Data of marketing campaign of a Portuguese banking institution
 
-File2: ...
+AddYearTimestamp.py : Add year and timestamp based on the sequential order of bank-full.csv, and then export to bank-full-add_timestamp.csv
 
-LI ZITIAN-Random Forest-Decision Tree:
+bank-full-add_timestamp.csv : Data with new columns: "timestamp", "year"
+
+Machine Learning Project.pdf : Descripition of the data and the requirement of this project
+
+"LI ZITIAN-Random Forest-Decision Tree":
 
 + File1: ...
 + File2: ...
 
-HUANG XIJIE-XGBoost-SVM:
+"HUANG XIJIE-XGBoost-SVM":
 
 + File1: ...
 + File2: ...
 
-WANG SHUHUI-Logistic Regression-KNN:
+"WANG SHUHUI-Logistic Regression-KNN":
 
 + File1: ...
 + File2: ...
