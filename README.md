@@ -22,6 +22,8 @@ bank-full-add_timestamp.csv : Data with new columns: "timestamp", "year"
 
 Machine Learning Project.pdf : Descripition of the data and the requirement of this project
 
+bank_name.txt : Description for the features of data, the reference and some details regarding to where the data from are also included.
+
 "LI ZITIAN-Random Forest-Decision Tree":
 
 + File1: ...
