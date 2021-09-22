@@ -31,7 +31,7 @@ bank_name.txt : Description for the features of data, the reference and some det
 
 "LI ZITIAN-Random Forest-Decision Tree":
 
-+ File1: ...
++ Random Forest Forward Selection.ipynb: The notebook that carry on feature forward selection process after the comparison of models  
 + File2: ...
 
 "HUANG XIJIE-XGBoost-SVM":
