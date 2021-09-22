@@ -16,13 +16,18 @@ WANG SHUHUI: e0202983@u.nus.edu
 ## Folder and File
 bank-full.csv : Data of marketing campaign of a Portuguese banking institution
 
-AddYearTimestamp.py : Add year and timestamp based on the sequential order of bank-full.csv, and then export to bank-full-add_timestamp.csv
-
 bank-full-add_timestamp.csv : Data with new columns: "timestamp", "year"
 
 Machine Learning Project.pdf : Descripition of the data and the requirement of this project
 
 bank_name.txt : Description for the features of data, the reference and some details regarding to where the data from are also included.
+
+"Data Exploration and Preprocssing":
+
++ Data Exploration.ipynb: The notebook that is used to carry on data exploration
++ Data_Exploration_sweetviz.html: Output result of the module sweetviz 
++ bank-full-add_timestamp.csv : Data with new columns: "timestamp", "year"
++ Preprocessing_Add_Year_Timestamp.py : Add year and timestamp based on the sequential order of bank-full.csv, and then export to bank-full-add_timestamp.csv
 
 "LI ZITIAN-Random Forest-Decision Tree":
 
