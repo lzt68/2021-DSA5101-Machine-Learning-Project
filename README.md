@@ -5,6 +5,25 @@ Codes and slides of Machine Learning Project in DSA 5101
 
 ## Prerequisite
 
+**IDE**
+
++ Jupyter Notebook
++ Spyder
+
+**Package**
+
++ pandas
++ numpy
++ matplotlib
++ seaborn
++ smote
++ scikit-learn
++ xgboost
+
+**Extension**
+
++ jupyter_contrib_nbextensions (not required, but strongly recommended)
+
 ## Contact
 
 HUANG XIJIE: e0732626@u.nus.edu
