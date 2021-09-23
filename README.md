@@ -51,7 +51,8 @@ bank_name.txt : Description for the features of data, the reference and some det
 "LI ZITIAN-Random Forest-Decision Tree":
 
 + Random Forest Forward Selection.ipynb: The notebook that carry on feature forward selection process after the comparison of models  
-+ File2: ...
++ Model_Selcetion_Random-Forest_vs_Decision-Tree.ipynb:  The notebook that is used to carry on the comparison between random forest and decision tree.
++ "temp": This folder contains part of the data that are generated during the backward selection of feature. If someone is interested in the full version, you can run the codes in Model_Selcetion_Random-Forest_vs_Decision-Tree.ipynb.
 
 "HUANG XIJIE-XGBoost-SVM":
 
