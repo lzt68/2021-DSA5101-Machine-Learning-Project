@@ -58,8 +58,8 @@ bank_name.txt : Description for the features of data, the reference and some det
 
 "HUANG XIJIE-XGBoost-SVM":
 
-+ "DSA5101_Project1_huang_xijie.ipynb": The notenook includes 1. Data Preprocessing, 2. Visulization (statistics of the data and their correlation), 3. Feature Engineerning, 4. Modelling and Prediction, 5. Principle Component analysis for mix type data. (Note that please use the data in folder "Huang Xijie-XGBoost & LightGBM" to run the notebook )
-+ "Data_Exploration_Visualization_Xijie_Huang.ipynb": Aimed to provide a clear visulization of the data and skip the modelling and engineerning part.
++ "DSA5101_Project1_huang_xijie.ipynb": The notenook includes 1. Data Preprocessing, 2. Visulization, 3. Feature Engineerning, 4. Modelling and Prediction, 5. Principle Component analysis for mix type data. (Note that please use the data in folder "Huang Xijie-XGBoost & LightGBM" to run the notebook )
++ "Data_Exploration_Visualization_Xijie_Huang.ipynb": Aimed to provide a clear visulization for the data statistic and correlation by skipping the modelling and engineerning part.
 
 "WANG SHUHUI-Logistic Regression-KNN":
 
