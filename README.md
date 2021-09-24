@@ -19,6 +19,8 @@ Codes and slides of Machine Learning Project in DSA 5101
 + smote
 + scikit-learn
 + xgboost
++ prince
++ lightgbm
 
 **Extension**
 
