@@ -63,5 +63,5 @@ bank_name.txt : Description for the features of data, the reference and some det
 
 "WANG SHUHUI-Logistic Regression-KNN":
 
-+ File1: ...
-+ File2: ...
++ "DSA5101_Project1_Wang_Shuhui.ipynb": The notenook includes 1. Data Visulization, 2. Data Preprocessing and Feature Engineerning, 3. Modelling and Prediction. Detailed explanation of codes can be found in the notebook Markdowns. 
+
