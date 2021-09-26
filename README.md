@@ -43,6 +43,8 @@ Machine Learning Project.pdf : Descripition of the data and the requirement of t
 
 bank_name.txt : Description for the features of data, the reference and some details regarding to where the data from are also included.
 
+DSA5101 Project Slides.pdf: Our slides for this presentation
+
 "Data Exploration and Preprocssing":
 
 + Data Exploration.ipynb: The notebook that is used to carry on data exploration
